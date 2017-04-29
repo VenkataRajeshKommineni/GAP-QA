@@ -1,0 +1,22 @@
+{
+  "name": "gap_automation_code",
+  "version": "1.0.0",
+  "description": "Automated Regression Test Cases using Protractor",
+  "main": "conf.js",
+  "dependencies": {
+    "protractor": "^5.1.1"
+  },
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VenkataRajeshKommineni/GAP-QA.git"
+  },
+  "author": "Venkat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VenkataRajeshKommineni/GAP-QA/issues"
+  },
+  "homepage": "https://github.com/VenkataRajeshKommineni/GAP-QA#readme"
+}
